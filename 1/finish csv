@@ -1,0 +1,8 @@
+Id,Word,TotalCount,SingleChapterMaxCount,UniqueChaptersCount,SingleHeadingMaxCount,UniqueHeadingCount,SingleSubheadingMaxCount,UniqueSubheadingCount,SingleDutyRateMaxCount,UniqueDutyRateCount,SingleTariffMaxCount,UniqueTariffCount
+1,elephant,3,2,2,2,2,2,2,2,2,1,3
+2,market,2,2,1,2,1,2,1,2,1,1,2
+3,potato,1,1,1,1,1,1,1,1,1,1,1
+4,red,2,1,2,1,2,1,2,1,2,1,2
+5,the,5,2,3,2,3,2,3,2,3,2,4
+6,violin,1,1,1,1,1,1,1,1,1,1,1
+7,yellow,1,1,1,1,1,1,1,1,1,1,1
